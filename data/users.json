@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "firstName": "feri",
+        "lastName": "handoyo",
+        "username": "ferifer",
+        "hash": "$2a$10$gzVPBuYBNk0ggNAQ5HoIjecLB2AyHu0e3yuLNvYdo1DjK7rtumXHi",
+        "id": 1,
+        "dateCreated": "2023-02-08T15:21:31.990Z",
+        "dateUpdated": "2023-02-08T15:21:31.990Z"
+    }
+]
